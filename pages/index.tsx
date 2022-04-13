@@ -81,7 +81,7 @@ const Home: NextPage = () => {
                   imgSrc="https://images.unsplash.com/photo-1572816225927-d08fb138f2b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
                   country="Nigeria"
                   numberOfPlaces={72}
-                  rating="4.8"
+                  rating="4.9"
                 />
                 <Card
                   imgSrc="https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80"
